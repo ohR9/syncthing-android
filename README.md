@@ -51,3 +51,4 @@ or use Android Studio to build/deploy the APK.
 # License
 
 The project is licensed under the [MPLv2](LICENSE).
+  
