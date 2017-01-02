@@ -1,3 +1,6 @@
+
+# Fork for personal development only, real repository over at (https://github.com/syncthing/syncthing-android)
+
 # syncthing-android
 
 [![Build Status](https://travis-ci.org/ohR9/syncthing-android.svg?branch=master)](https://travis-ci.org/ohR9/syncthing-android)
